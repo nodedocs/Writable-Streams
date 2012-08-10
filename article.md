@@ -25,5 +25,3 @@ http.createServer(function(req, res) {
   });
 }).listen(8080);
 ```
-
-<a class="button download" href="#">Download Code Sample</a>
